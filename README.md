@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**mirzaahmergull/mirzaahmergull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    Hi, I'm Mirza Ahmer Gull! 👋 <br>
+    🔥 Data Engineer and Full Stack Developer grinding to be the best   <br>
+    :sparkles: Favorite Tech: JavaScript, React, Python ... <br>
+    :email:	mirzaahmergull@outlook.com <br>
+    :art: Personal Site: https://codewithmag.dev <br>
+    ⏬: Resume: https://drive.google.com/file/d/1jm_MN2teGVYNolIXvXVnG1vZ2XfONzry/view <br>
+  </samp>
+</p>
